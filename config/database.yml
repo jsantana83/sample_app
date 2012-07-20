@@ -19,8 +19,8 @@ development:
 test:
   adapter: postgresql
   database: sample_app_test
-  username: sample_app
-  password: sinforoso
+  username: postgres
+  password: vicente
   host: localhost
   encoding: UTF8
   pool: 5
